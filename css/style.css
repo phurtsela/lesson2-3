@@ -1,0 +1,108 @@
+.activmenu{
+	color: red;
+}
+
+body {
+	padding: 30px;
+}
+.home {
+	width: 100.18px;
+	height: 30.57px;
+	display: inline-block;
+	margin-bottom: 20px;
+	font-size: 22px;
+	font-weight: bold;
+}
+
+.page {
+	width: 96px;
+	height: 30px;
+	display: block;
+	margin-bottom: 3px;
+	font-size: 22px;
+	font-weight: bold;
+}
+.new {
+	width: 123px;
+	height: 30px;
+	display: block;
+	margin-bottom: 3px;
+	font-size: 22px;
+	font-weight: bold;
+}
+.contact {
+	width: 110px;
+	height: 30px;
+	display: block;
+	margin-bottom: 3px;
+	font-size: 22px;
+	font-weight: bold;
+}
+
+.divbox {
+	width: 56px;
+	height: 56px;
+	margin-top: 32px;
+	background-color: #3D58A6;
+}
+
+.divbox p {
+	width: 100%;
+	padding-top: 5px;
+	text-align: center;
+	font-size: 48px;
+	color: white;
+}
+.maisi{
+	color: #3D58A6;
+	font-size: 22px;
+
+}
+.img27,
+.img28,
+.img29 {
+	display: block;
+	margin-top: 17.5px;
+	margin-bottom: 27.5px;
+}
+
+.lorem1 {
+	margin-top: 13.5px;
+}
+.line {
+	display: inline-block;
+	height: 27px;
+	width: 1px;
+	background-color: #3D58A6;
+	margin: 0 30px;
+}
+.indexfooter{
+	margin-top: 30.6px;
+}
+.newsfooter{
+	margin-top: 22px;
+}
+.contact-s1{
+	width: 745px;
+	height: 511px;
+	padding-top: 206.5px;
+}
+.contact-box{
+	height: 98px;
+	text-align: end;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
